@@ -2,7 +2,6 @@
   "name": "vue-cli-fronend",
   "version": "0.1.0",
   "private": true,
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -13,7 +12,9 @@
     "bulma": "^0.7.5",
     "core-js": "^2.6.5",
     "cors": "^2.8.5",
+    "express": "^4.17.1",
     "node-sass": "^4.12.0",
+    "path": "^0.12.7",
     "sass-loader": "^8.0.0",
     "socket.io-client": "^2.3.0",
     "vue": "^2.6.10",
